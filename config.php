@@ -1,0 +1,16 @@
+APP_NAME="Restaurante Vegano"
+APP_ENV=local
+APP_DEBUG=true
+APP_URL=http://localhost
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=restaurante
+DB_USERNAME=root
+DB_PASSWORD=
+
+SESSION_LIFETIME=120
+SESSION_DRIVER=files
+
+TIMEZONE=America/Caracas
